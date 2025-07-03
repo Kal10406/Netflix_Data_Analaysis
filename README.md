@@ -69,10 +69,8 @@ To perform exploratory data analysis (EDA) on Netflix content to find patterns i
 
 ## ✨ Author
 
-**Your Name**  
-📧 your.email@example.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourusername)
+**Kalpana S**  
+📧 kalpanassr6@gmail.com  
 
----
 
 ⭐ Star this repo if you found it useful!
