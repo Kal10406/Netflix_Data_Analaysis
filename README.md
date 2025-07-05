@@ -38,7 +38,7 @@ To perform exploratory data analysis (EDA) on Netflix content to find patterns i
 
 ## 📈 Tableau Dashboard
 
-🔗 *[Link to be added after uploading to Tableau Public]*
+🔗 *https://public.tableau.com/views/Netflixcontentvisualisations/Dashboard4?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link*
 
 ---
 
